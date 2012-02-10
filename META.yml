@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               PDL-Graphics-ColorSpace
-version:            0.0.7
+version:            0.0.8
 abstract:           ~
 author:
     - Maggie J. Xiong  <maggiexyz+github gmail.com>
